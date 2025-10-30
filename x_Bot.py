@@ -13,8 +13,6 @@ def post(joke):
     if not joke:
         print("sorry there is no joke...")
         return None
-    # Use the four variables defined at the top of your script
-# api_Key, api_key_Secret, access_Token, access_Token_Secret
 
 def post(joke):
     if not joke:
