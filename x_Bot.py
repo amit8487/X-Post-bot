@@ -2,10 +2,10 @@ import tweepy
 import requests
 
 
-api_Key = "dv0oLAiSgAtDBVbEFR4wnpRmZ"
-api_key_Secret = "JmnxuQjswvyUIMpDqBG96GC0hTABwrRdQ9plPnAINw7TEtgXc7"
-access_Token = "1983930201500479488-4D9pKBxaG3rkAx24B506osMBvPTkF2"
-access_Token_Secret = "LQ1CcICpR5sKuwydwu78OGYoapLe7lZDmV5dbbEhWjSrk"
+api_Key = "api key"
+api_key_Secret = "secret key"
+access_Token = "access token"
+access_Token_Secret = "token secret"
 
 
 
